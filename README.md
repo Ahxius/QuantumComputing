@@ -15,3 +15,7 @@ In order to simplify the structure of the repo, there will be directories for ea
 6. Entanglement and Quantum Protocols
 7. Quantum Algorithms
 8. Next Steps
+
+## About Me
+
+I am an undergrad student at [Taylor University](https://taylor.edu) studying Computer Science-Cybersecurity. The additional 'Cybersecurity' at the end of my degree provides me a lot more experience at the lower level - reverse engineering operating systems, compilers, binaries, etc. However, this is nothing near Computer Engineering, reading the first chapter in the book showed me how, even after taking Discrete, there are still some logic concepts that I haven't heard of.
